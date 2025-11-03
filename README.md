@@ -1,0 +1,28 @@
+# rising_world-server
+
+A Unity-based Docker image for Rising World dedicated server.
+
+## Features
+
+- 🐳 Easy Docker deployment
+- 🎮 Supports Unity only
+- 🔄 Automatic Steam updates
+- 💾 Persistent storage for worlds
+- ⚙️  Environment variable configuration
+- 📝 Simple configuration management
+
+## Quick Start
+```bash
+docker-compose up -d
+```
+
+## Requirements
+
+- Docker
+- Docker Compose
+- 4GB+ RAM
+- Ports 4254-4255 (TCP/UDP)
+
+## License
+
+MIT

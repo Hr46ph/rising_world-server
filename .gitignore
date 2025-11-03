@@ -1,0 +1,21 @@
+# Rising World server files
+risingworld_server/
+Worlds/
+Logs/
+*.log
+
+# Steam
+steamcmd/
+
+# Docker
+.env
+docker-compose.override.yml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.swp
