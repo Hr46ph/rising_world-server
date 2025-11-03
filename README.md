@@ -1,5 +1,7 @@
 # rising_world-server
 
+Empty files, doesn't do anything yet. I'm working on it :P
+
 A Unity-based Docker image for Rising World dedicated server.
 
 ## Features
