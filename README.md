@@ -1,6 +1,6 @@
 # rising_world-server
 
-Empty files, doesn't do anything yet. I'm working on it :P
+Very much WIP, it could work, basic config.
 
 A Unity-based Docker image for Rising World dedicated server.
 
